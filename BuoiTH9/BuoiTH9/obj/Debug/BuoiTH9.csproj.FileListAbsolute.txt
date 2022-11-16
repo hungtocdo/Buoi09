@@ -1,0 +1,11 @@
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.csproj.AssemblyReference.cache
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.csproj.SuggestedBindingRedirects.cache
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.Form1.resources
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.Properties.Resources.resources
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.csproj.GenerateResource.cache
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.csproj.CoreCompileInputs.cache
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\bin\Debug\BuoiTH9.exe.config
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\bin\Debug\BuoiTH9.exe
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\bin\Debug\BuoiTH9.pdb
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.exe
+E:\LTĐT_C#\BuoiTH9\BuoiTH9\obj\Debug\BuoiTH9.pdb
